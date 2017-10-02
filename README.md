@@ -1,4 +1,4 @@
-#Mandelbrot
+# Mandelbrot
 
 This can be used to view the mandelbrot set.
 
